@@ -1,3 +1,3 @@
 # EPE1
 
-Repositorio creado con propósitos de aprendizaje y testeo de git y bootstrap para EPE1 , Desarrollo Web II.  __testing change__
+Created with  Git, GitHub and Bootstrap learning porpouses. All images were downloaded from https://pixabay.com/ .
